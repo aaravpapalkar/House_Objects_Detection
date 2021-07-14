@@ -29,7 +29,7 @@ function gotResult(error, results) {
 }
 
 function preload() {
-    img = loadImage('bedroom.jpg');
+    img = loadImage('Bedroom.jpg');
 }
 
 function draw() {
